@@ -1,6 +1,8 @@
 {
   "name": "@types/vector-grid-v2",
   "version": "1.0.0",
+  "private": true,
+  "types": "index.d.ts",
   "description": "",
   "main": "index.d.ts",
   "scripts": {
