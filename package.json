@@ -1,0 +1,19 @@
+{
+  "name": "vector-grid",
+  "version": "1.0.0",
+  "description": "temp type def for vector grid",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "vgrid"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkaa/vector-grid-v2.git"
+  },
+  "author": "mkaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkaa/vector-grid-v2/issues"
+  },
+  "homepage": "https://github.com/mkaa/vector-grid-v2#readme"
+}
